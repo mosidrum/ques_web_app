@@ -1,5 +1,5 @@
 import styled, { createGlobalStyle } from 'styled-components';
-import bg from '../../images/gradient-bg.avif';
+import bg from '../../images/web-page.jpg';
 
 export const AllStyles = createGlobalStyle`
   html {
